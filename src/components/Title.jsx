@@ -56,7 +56,7 @@ const Title = () => {
             </p>
             <h4>
                 Te amo demasiado <br />
-                Atte: Tu pingüino que te ama mucho >O3O)>
+                Atte: Tu pingüino que te ama mucho &#62;O3O&#41;&#62;
             </h4>
             <h3>¡¡¡Feliz 3er aniversario pequeña!!!</h3>
         </div>
